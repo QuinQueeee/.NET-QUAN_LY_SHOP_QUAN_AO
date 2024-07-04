@@ -1,5 +1,6 @@
 # ĐỒ ÁN .NET/XÂY DỰNG PHẦN MỀM QUẢN LÝ SHOP QUẦN ÁO
-Đồ án nhóm môn .NET. Đề tài: Xây dựng phần mềm quản lý shop quần áo
+Đồ án nhóm môn .NET. 
+Đề tài: Xây dựng phần mềm quản lý shop quần áo
 Nhóm thực hiện: Nhóm 9 (Trường đại học Công Thương TP. HCM)
 File bao gồm:
 1. Source code
